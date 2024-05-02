@@ -1,0 +1,41 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-sizing;
+}
+.grace{
+  background-color: darkblue;
+  text-align: center;
+  padding:50px;
+  width:40%;
+  margin :auto;
+  margin-top:30px;
+  border :solid orangered 3px;
+  border-radius:20px;
+}
+#profilepicture {
+  box-align: center;
+  width:150px;
+  margin-bottom: 30px;
+  border-radius:40px;
+  
+}
+
+.name{
+  color:white;
+  padding: 2px;
+  margin:3px;
+  text-align: center;
+}
+.job{
+  color:white;
+  padding:2px;
+  margin:3px;
+  text-align: center;
+}
+.description{
+  color: white;
+  padding :2px;
+  margin:3px;
+  text-align: center;
+}
